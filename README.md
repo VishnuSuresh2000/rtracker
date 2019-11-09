@@ -1,6 +1,7 @@
 # rtracker
 
-A new Flutter project.
+This Is an App Created for tracking stafs in the college using RF id chip .
+This App Created using flutter and Firebase as back end
 
 ## Getting Started
 
